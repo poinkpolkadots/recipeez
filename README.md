@@ -43,7 +43,11 @@ You can look at the example pages provided to get an idea of some of the content
 
 Once you've set up your basic page, I recommend trying to customize it! You can customize any of the files in here to get your desired look. The `_layouts` folder includes the baseline html pages which are used to construct pages from your markdown files. The styling is done through the sass files in the `_sass`. I recommend [this tutorial](https://jekyllrb.com/docs/themes/) to learn how jekyll themes are laid out. You can also look at the [Minimal Mistakes website](https://mmistakes.github.io) for further documentation.
 
-One important thing to note: The author bio is disabled by default on this theme. If you want to re-enable it, you should go to `_config.yml` and change `author_profile: false` to `author_profile: true`. or include `author_profile: true` in the front matter of your markdown file.
+Some important things to note:
+
+The author bio is disabled by default on this theme. If you want to re-enable it, you should go to `_config.yml` and change `author_profile: false` to `author_profile: true`. or include `author_profile: true` in the front matter of your markdown file.
+
+An additional feature has been included to add "asides" to your recipes to add tips and tricks into the body of the text. To utilize this feature, just create a div with the class of aside-box like this: `<div class="aside-box" markdown="1">`.
 
 # Thanks for checking out recipeez!
 
