@@ -18,6 +18,8 @@ You must name the repository `<username>.github.io`.
 
 Your website will be visible at `https://<username>.github.io`.
 
+You can customize some basic information in `_config.yml`.
+
 ## Step two, add recipes!
 You can put all recipes in the `_posts` folder in this repository.
 

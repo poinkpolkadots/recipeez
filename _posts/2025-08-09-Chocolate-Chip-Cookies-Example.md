@@ -140,7 +140,14 @@ If you’re curious about freezing cookie dough, here’s my How to Freeze Cooki
 ## Notes
 
 1. **Make Ahead & Freezing Instructions:** You can make the cookie dough and chill it in the refrigerator for up to 3 days. Allow to come to room temperature, then continue with step 5. Baked cookies freeze well for up to 3 months. Unbaked cookie dough balls freeze well for up to 3 months. Bake frozen cookie dough balls for an extra minute, no need to thaw. Read my tips and tricks on how to freeze cookie dough.
-2. **Special Tools** (affiliate links): Glass Mixing Bowls | Whisk | Wooden Spoon or Rubber Spatula | Baking Sheets | Silicone Baking Mats or Parchment Paper | Medium Cookie Scoop | Cooling Rack
+2. **Special Tools**:
+    - Glass Mixing Bowls
+    - Whisk
+    - Wooden Spoon or Rubber Spatula
+    - Baking Sheets
+    - Silicone Baking Mats or Parchment Paper
+    - Medium Cookie Scoop
+    - Cooling Rack
 3. **Cornstarch:** If you don’t have cornstarch, you can leave it out. The cookies are still very soft.
 4. **Egg & Egg Yolk:** Room-temperature egg + egg yolk are best. Typically, if a recipe calls for room-temperature or melted butter, it’s good practice to use room-temperature eggs as well. To bring eggs to room temperature quickly, simply place the whole eggs in a bowl of warm water for 5 minutes.
 5. **Can I add nuts or different add-ins?** Yes, absolutely. As long as the total amount of add-ins is around 1 to 1 and 1/4 cups, you can add anything including chopped nuts, M&Ms, white chocolate chips, dried cranberries, chopped peanut butter cups, etc. I love them with 3/4 cup (135g) butterscotch morsels and 1/2 cup (100g) Reese’s Pieces. You could even add 1/2 cup (80g) sprinkles to make a sprinkle chocolate chip cookie.
