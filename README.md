@@ -31,7 +31,7 @@ I recommend [this tutorial](https://www.markdowntutorial.com/) to learn the basi
 
 At the top of the markdown file, you should include some "front matter", enclosed in triple dashes. It will look something like this:
 
-![front matter example](./Screenshot 2025-11-22 223743.png)
+![front matter example](./front_matter_example.png)
 
 This will give the website some basic information to display and sort the page by. To see all of all front matter tags, look at the Minimal Mistakes website [here](https://mmistakes.github.io).
 
