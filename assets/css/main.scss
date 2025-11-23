@@ -29,10 +29,17 @@ search: false
   margin: 0;
 }
 
-.author__avatar img {
-  height: 128px;
-  width: 60px;
-  max-width: 60px;
-  object-fit: contain;
-  border-radius: 50%;
+/* Reset sidebar author avatar to default Minimal Mistakes style */
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+  height: 36px;
+
+  img {
+    max-width: 200px;
+    width: auto;      /* keeps aspect ratio */
+    height: auto;     /* keeps aspect ratio */
+    border-radius: 0%; /* square avatar; change to 50% for circle */
+  }
 }

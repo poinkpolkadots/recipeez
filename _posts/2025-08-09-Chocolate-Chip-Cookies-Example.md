@@ -3,12 +3,13 @@ title: "Chocolate Chip Cookies Example"
 author: sally_mckenney
 header:
   teaser: /assets/images/Chocolate-Chip-Cookies/choco_chip_cookies.jpg
+excerpt: "A delicious chocolate chip cookie recipe!"
 tags:
   - cookies
   - easy
   - vegetarian
 ---
-
+Recipe from [Sally's Baking Addiction](https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/)
 # Intro
 
 ![Chocolate Chip Cookies with Salt on Top](/assets/images/Chocolate-Chip-Cookies/choco_chip_cookies.jpg)

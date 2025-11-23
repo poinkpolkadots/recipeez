@@ -18,6 +18,10 @@
       </span>
     {% endif %}
 
+    {% if document.author and document.show_date %}
+      <span class="page__meta-sep"></span>
+    {% endif %}
+
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
       <span class="page__meta-date">
