@@ -27,13 +27,19 @@ Recipes are written in markdown, don't worry though, it's not that hard! You sho
 
 I recommend [this tutorial](https://www.markdowntutorial.com/) to learn the basics of markdown, but a few example pages are provided in this repository to help you get started.
 
+You can add pictures to your recipes using this format: `![alt text](/path/to/image)`. I recommend you store your pictures in `./assets/images` to make them easy to find.
+
 ### Front Matter
 
 At the top of the markdown file, you should include some "front matter", enclosed in triple dashes. It will look something like this:
 
 ![front matter example](./front_matter_example.png)
 
-This will give the website some basic information to display and sort the page by. To see all of all front matter tags, look at the Minimal Mistakes website [here](https://mmistakes.github.io).
+To add new authors, you can add them to the `/_data/authors.yml`, then, in the front matter you can just refer to the author by what you named them in the yaml file. Easy peasy!
+
+![authors.yml example](./authors_example.png)
+
+Front matter gives the website some basic information to display and sort the page by. To see all of all front matter tags, look at the Minimal Mistakes website [here](https://mmistakes.github.io).
 
 ### Recipe Content
 

@@ -2,7 +2,7 @@
 title: "Chocolate Chip Cookies Example"
 author: sally_mckenney
 header:
-  teaser: /assets/images/Chocolate-Chip-Cookies/choco_chip_cookies.jpg
+  teaser: /assets/images/Chocolate-Chip-Cookies-Example/choco_chip_cookies.jpg
 excerpt: "A delicious chocolate chip cookie recipe!"
 tags:
   - cookies
