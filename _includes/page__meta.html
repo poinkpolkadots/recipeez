@@ -1,6 +1,25 @@
 {% assign document = post | default: page %}
 {% if document.read_time or document.show_date %}
   <p class="page__meta">
+    {% if page.author %}
+      {% assign author = site.data.authors[page.author] | default: page.author %}
+      <span class="page__author">
+        <i class="fas fa-fw fa-user"></i>
+        {% if author.name %}
+          {{ author.name }}
+        {% else %}
+          {{ author }}
+        {% endif %}
+      </span>
+    {% elsif site.author %}
+      <span class="page__author">
+        <i class="fas fa-fw fa-user"></i>
+        {{ site.author.name }}
+      </span>
+    {% endif %}
+
+    {% if page.author and site.author %}<span class="page__meta-sep"></span>{% endif %}
+
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
       <span class="page__meta-date">
