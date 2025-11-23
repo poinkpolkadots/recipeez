@@ -1,12 +1,12 @@
 ---
 title: "Chocolate Chip Cookies Example"
-author: Sally McKenney
+author: sally_mckenney
 header:
-    teaser: /assets/images/Chocolate-Chip-Cookies/choco_chip_cookies.jpg
+  teaser: /assets/images/Chocolate-Chip-Cookies/choco_chip_cookies.jpg
 tags:
-    - cookies
-    - easy
-    - vegetarian
+  - cookies
+  - easy
+  - vegetarian
 ---
 
 # Intro
