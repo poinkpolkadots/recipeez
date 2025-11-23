@@ -1,8 +1,0 @@
-Sally McKenney:
-  name        : "Sally McKenney"
-  bio         : "Sally McKenney is a baker, food photographer, and cookbook author. Her kitchen-tested recipes and thorough step-by-step tutorials have given millions of readers the knowledge and confidence to bake from scratch. Sally has been featured on *Good Morning America*, *HuffPost*, *Taste of Home*, *People*, and more."
-  avatar      : "/assets/images/SALLY-HEADSHOT-2024-5.webp"
-  links:
-    - label: "Sally's Baking Addiction"
-      icon: "fas fa-fw fa-link"
-      url: "https://sallysbakingaddiction.com"
