@@ -12,7 +12,7 @@ Below are the steps to get started with GitHub Pages.
 ## Step one, clone this GitHub Repository
 To clone this respository, click on the "fork" button in the upper right hand of this page:
 
-![Fork Icon](./fork_icon.png)
+![Fork Icon](/readme_pictures/fork_icon.png)
 
 You must name the repository `<username>.github.io`.
 
@@ -22,24 +22,32 @@ Your website will be visible at `https://<username>.github.io`.
 - You can edit some other basic information in `config.yml`.
 - To remove the link to the tutorial page in the heading, you can edit `/_data/navigation.yml` and remove the lines it says to
 
+### Files you can remove
+
+- `README.md`
+- `/readme_pictures`
+
+
 ## Step two, add recipes!
 You can put all recipes in the `_posts` folder in this repository.
 
 Recipes are written in markdown, don't worry though, it's not that hard! You should title your post files like this: `YYYY-MM-DD-name-of-post.md`.
 
-I recommend [this tutorial](https://www.markdowntutorial.com/) to learn the basics of markdown, but a few example pages are provided in this repository to help you get started.
+I recommend [this tutorial](https://www.markdowntutorial.com/) to learn the basics of markdown, but a few example pages are provided in this repository to help you get started. To create and edit markdown files, I recommend you use [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown), as it allows you to preview markdown files directly. You can download it [here](https://code.visualstudio.com/Download).
 
 You can add pictures to your recipes using this format: `![alt text](/path/to/image)`. I recommend you store your pictures in `./assets/images` to make them easy to find.
+
+To upload markdown files to your GitHub repository, you can utilize the GitHub website and click the "upload" button there, or you can clone your repository remotely and edit files that way, although that is a little more technical. I recommend using the website for beginners.
 
 ### Front Matter
 
 At the top of the markdown file, you should include some "front matter", enclosed in triple dashes. It will look something like this:
 
-![front matter example](./front_matter_example.png)
+![front matter example](/readme_pictures/front_matter_example.png)
 
 To add new authors, you can add them to the `/_data/authors.yml`, then, in the front matter you can just refer to the author by what you named them in the yaml file. Easy peasy!
 
-![authors.yml example](./authors_example.png)
+![authors.yml example](/readme_pictures/authors_example.png)
 
 Front matter gives the website some basic information to display and sort the page by. To see all of all front matter tags, look at the Minimal Mistakes website [here](https://mmistakes.github.io).
 
